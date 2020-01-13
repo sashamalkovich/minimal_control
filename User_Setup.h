@@ -1,0 +1,4 @@
+#ifdef _BLINK_LEO_USER_SETUP_H_
+#define _BLINK_LEO_USER_SETUP_H_
+
+#endif //_BLINK_LEO_USER_SETUP_H_
